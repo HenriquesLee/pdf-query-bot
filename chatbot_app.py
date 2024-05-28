@@ -115,7 +115,6 @@ def main():
 
     # List of PDF files
     pdf_files = [
-        "/content/OSIT_SOP.pdf"
         # Add more PDF files as needed
     ]
 

@@ -6,7 +6,7 @@ Welcome to PDF Query Bot, your intelligent assistant for querying information fr
 
 ### Features:
 
-1. **Natural Language Interface:** PDF Query Bot understands natural language queries, allowing you to ask questions in a conversational manner.
+1. **Natural Language Interface:** PDF Query Bot understands natural language queries, allowing you to ask questions conversationally.
 
 2. **PDF Parsing:** It parses PDF documents, extracting text and relevant information for query processing.
 
@@ -48,9 +48,6 @@ We welcome contributions from the community to enhance the capabilities of PDF Q
 
 PDF Query Bot is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), allowing you to use, modify, and distribute the code for your specific use cases.
 
-### Support:
-
-For any questions, support requests, or feedback, please contact us at [support@pdfquerybot.com](mailto:support@pdfquerybot.com). Our team is here to assist you in making the most out of PDF Query Bot.
 
 ---
 

@@ -1,6 +1,8 @@
 **PDF Query Bot - Your PDF Document Assistant**
-
 ---
+![image](https://github.com/HenriquesLee/pdf-query-bot/assets/146438915/ce28a25f-1c70-4280-87c3-4e0fd3831b8a)
+![image](https://github.com/HenriquesLee/pdf-query-bot/assets/146438915/f2ce0239-fed2-46c8-9c77-a85143047baa)
+
 
 Welcome to PDF Query Bot, your intelligent assistant for querying information from PDF documents. With PDF Query Bot, you can effortlessly extract insights from your PDF files through natural language queries. Here's everything you need to know to get started:
 
@@ -35,6 +37,10 @@ Welcome to PDF Query Bot, your intelligent assistant for querying information fr
 - "What are the key findings in the annual report for 2023?"
 - "Can you summarize the methodology discussed in the research paper?"
 - "What are the main conclusions drawn from the case study document?"
+
+### Example Usage:
+![image](https://github.com/HenriquesLee/pdf-query-bot/assets/146438915/188cdd3b-4330-470a-a317-1e5a3dd4d3a8)
+
 
 ### Customization:
 
